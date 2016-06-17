@@ -1,0 +1,5 @@
+C:\Users\username\Dropbox\PSoC Creator\DARPA HESA SENSOR\DARPA_HESA_Sensor.cydsn\DARPA_HESA_Sensor.cyprj|b4644b22-fdf7-46f6-97eb-11c071ac8d39
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|cf67323b-88e8-4629-9abf-3b2041f26540
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e42c1a94-71f0-49a6-899c-63a51be8ceac
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|fbb2563a-a0f2-471b-8e1b-661063d333cb
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|043084fc-6049-4075-9e8c-f3a36ef0af29
